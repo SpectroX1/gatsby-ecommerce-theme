@@ -98,9 +98,9 @@ const IndexPage = () => {
       {/* Quote */}
       <Quote
         bgColor={'var(--standard-light-grey)'}
-        title={'about Sydney'}
+        title={'about 100% Vision Center by '}
         quote={
-          '“We believe in two things: the pursuit of quality in everything we do, and looking after one another. Everything else should take care of itself.”'
+          '“Designed in California.”'
         }
       />
 
@@ -116,9 +116,9 @@ const IndexPage = () => {
       <div className={styles.sustainableContainer}>
         <Hero
           image={'/banner3.png'}
-          title={'We are Sustainable'}
+          title={'Ultra Carbon'}
           subtitle={
-            'From caring for our land to supporting our people, discover the steps we’re taking to do more for the world around us.'
+            'Ultra Light, Ultra Performance.'
           }
           ctaText={'read more'}
           maxWidth={'660px'}
