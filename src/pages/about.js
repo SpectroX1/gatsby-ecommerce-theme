@@ -27,7 +27,7 @@ const AboutPage = (props) => {
         <Hero
           maxWidth={'900px'}
           image={'/about.png'}
-          title={`Sydney \n A British brand since 1860`}
+          title={`FMF Vision center by CROSSBAY \n A New York Staple since 1974`}
         />
 
         <div className={styles.navContainer}>
